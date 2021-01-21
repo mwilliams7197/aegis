@@ -7,7 +7,7 @@ require (
 	github.com/Azure/go-autorest/autorest v0.9.4
 	github.com/Azure/go-autorest/autorest/azure/auth v0.4.2
 	github.com/PuerkitoBio/goquery v1.5.0
-	github.com/andygrunwald/go-jira v1.12.0
+	github.com/andygrunwald/go-jira v1.13.0
 	github.com/aws/aws-sdk-go v1.28.9
 	github.com/benjivesterby/validator v1.0.1-0.20200101181545-cfd93a3612a2
 	github.com/devnw/validator v1.0.2
