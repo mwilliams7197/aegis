@@ -36,6 +36,6 @@ require (
 	github.com/rs/cors v1.7.0
 	github.com/trivago/tgo v1.0.7
 	golang.org/x/crypto v0.0.0-20200128174031-69ecbb4d6d5d
-	gopkg.in/korylprince/go-ad-auth.v2 v2.2.0
+	gopkg.in/korylprince/go-ad-auth.v3 v3.1.1
 	gopkg.in/ldap.v3 v3.1.0
 )
