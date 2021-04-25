@@ -4,8 +4,8 @@ go 1.13
 
 require (
 	github.com/Azure/azure-sdk-for-go v38.2.0+incompatible
-	github.com/Azure/go-autorest/autorest v0.9.4
-	github.com/Azure/go-autorest/autorest/azure/auth v0.4.2
+	github.com/Azure/go-autorest/autorest v0.11.17
+	github.com/Azure/go-autorest/autorest/azure/auth v0.5.7
 	github.com/PuerkitoBio/goquery v1.5.0
 	github.com/andygrunwald/go-jira v1.12.0
 	github.com/aws/aws-sdk-go v1.28.9
@@ -35,7 +35,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/rs/cors v1.7.0
 	github.com/trivago/tgo v1.0.7
-	golang.org/x/crypto v0.0.0-20200128174031-69ecbb4d6d5d
+	golang.org/x/crypto v0.0.0-20201221181555-eec23a3978ad
 	gopkg.in/korylprince/go-ad-auth.v2 v2.2.0
 	gopkg.in/ldap.v3 v3.1.0
 )
