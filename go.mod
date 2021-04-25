@@ -9,7 +9,7 @@ require (
 	github.com/PuerkitoBio/goquery v1.5.0
 	github.com/andygrunwald/go-jira v1.12.0
 	github.com/aws/aws-sdk-go v1.28.9
-	github.com/benjivesterby/validator v1.0.1-0.20200101181545-cfd93a3612a2
+	github.com/benjivesterby/validator v1.0.4
 	github.com/devnw/validator v1.0.2
 	github.com/dghubble/oauth1 v0.6.0
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
