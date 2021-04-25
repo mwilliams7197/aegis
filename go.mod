@@ -16,7 +16,7 @@ require (
 	github.com/go-sql-driver/mysql v1.5.0
 	github.com/google/uuid v1.1.1
 	github.com/gorilla/mux v1.7.4
-	github.com/gorilla/websocket v1.4.1
+	github.com/gorilla/websocket v1.4.2
 	github.com/nortonlifelock/aws v1.0.0
 	github.com/nortonlifelock/azure v1.0.1-0.20200923201949-b266eecf6d03
 	github.com/nortonlifelock/connection v1.0.1-0.20200116160344-4d492cf1f581
