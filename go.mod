@@ -8,7 +8,7 @@ require (
 	github.com/Azure/go-autorest/autorest/azure/auth v0.4.2
 	github.com/PuerkitoBio/goquery v1.5.0
 	github.com/andygrunwald/go-jira v1.12.0
-	github.com/aws/aws-sdk-go v1.28.9
+	github.com/aws/aws-sdk-go v1.38.36
 	github.com/benjivesterby/validator v1.0.1-0.20200101181545-cfd93a3612a2
 	github.com/devnw/validator v1.0.2
 	github.com/dghubble/oauth1 v0.6.0
@@ -35,7 +35,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/rs/cors v1.7.0
 	github.com/trivago/tgo v1.0.7
-	golang.org/x/crypto v0.0.0-20200128174031-69ecbb4d6d5d
+	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
 	gopkg.in/korylprince/go-ad-auth.v2 v2.2.0
 	gopkg.in/ldap.v3 v3.1.0
 )
